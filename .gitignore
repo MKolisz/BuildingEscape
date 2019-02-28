@@ -9,3 +9,4 @@ BuildingEscape/Content/StarterContent/
 
 #Visual studio generated files
 *.VC.db
+*.suo
