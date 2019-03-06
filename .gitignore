@@ -5,8 +5,9 @@
 */Intermediate/
 */Saved/
 *_BuiltData.uasset
-BuildingEscape/Content/StarterContent/
+BuildingEscape/Content/StarterContent
 
 #Visual studio generated files
 *.VC.db
 *.suo
+*.ipch
